@@ -1,5 +1,4 @@
-# consulting service
-WORFLOGY Inc. consulting service
+# WORFLOGY Inc. Consulting Service
 
 **[워플로지 홈으로 돌아가기]** (https://worflogy.com)
 
@@ -21,7 +20,7 @@ __○ 의뢰 방법__
 __○ 진행 절차__
   - 비밀유지협약 (NDA)
   - 요구사항 인터뷰
-  - 주요 아젠다 정리
+  - 주요 아젠다/이슈 정리
 
 **[사전 인터뷰 이후]**
 

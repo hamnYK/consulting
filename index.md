@@ -3,9 +3,9 @@ layout: default
 title: WORFLOGY Consulting Service
 ---
 
-# Consulting Service
+# WORFLOGY Inc. Consulting Service
 
-**[워플로지 홈으로 돌아가기](https://worflogy.com)**
+**[워플로지 홈으로 돌아가기]** (https://worflogy.com)
 
 ---
 
@@ -13,26 +13,26 @@ title: WORFLOGY Consulting Service
 
 **[컨설팅 영역]**
 
-- 연구개발(R&D) 기획 및 프로젝트 수행  
-- 소통과 업무 프로세스 개선  
-- 성장 로드맵 및 전략 수립  
+  - 연구개발(R&D) 기획 및 프로젝트 수행
+  - 소통과 업무 프로세스 개선
+  - 성장 로드맵 및 전략 수립
 
 **[사전 인터뷰 진행]**
 
-__○ 의뢰 방법__  
-- worflogy@gmail.com으로 의뢰  
+__○ 의뢰 방법__
+  - worflogy@gmail.com으로 의뢰
 
-__○ 진행 절차__  
-- 비밀유지협약 (NDA)  
-- 요구사항 인터뷰  
-- 주요 아젠다 정리  
+__○ 진행 절차__
+  - 비밀유지협약 (NDA)
+  - 요구사항 인터뷰
+  - 주요 아젠다/이슈 정리
 
 **[사전 인터뷰 이후]**
 
-- 견적 및 일정 협의  
-- 서비스 계약 체결  
-- 컨설팅 진행 (오프라인)  
-
+  - 견적 및 일정 협의
+  - 서비스 계약 체결
+  - 컨설팅 진행 (오프라인)
+  
 ### 모든 컨설팅은 오프라인으로 진행됩니다.
 
 ---
