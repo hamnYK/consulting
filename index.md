@@ -1,9 +1,9 @@
 ---
 layout: default
-title: WORFLOGY Consulting Service
+title: WORFLOGY Inc.
 ---
 
-# WORFLOGY Inc. Consulting Service
+# WORFLOGY Consultion Service
 
 **[워플로지 홈으로 돌아가기]** (https://worflogy.com)
 
