@@ -5,7 +5,7 @@ title: WORFLOGY Inc.
 
 # WORFLOGY Consultion Service
 
-**[워플로지 홈으로 돌아가기]** (https://worflogy.com)
+[**워플로지 홈으로 돌아가기**] (https://worflogy.com)
 
 ---
 
@@ -19,10 +19,10 @@ title: WORFLOGY Inc.
 
 **[사전 인터뷰 진행]**
 
-__○ 의뢰 방법__
-  - worflogy@gmail.com으로 의뢰
+**○ 의뢰 방법**
+  - [worflogy@gmail.com](mailto:worflogy@gmail.com)으로 의뢰
 
-__○ 진행 절차__
+**○ 진행 절차**
   - 비밀유지협약 (NDA)
   - 요구사항 인터뷰
   - 주요 아젠다/이슈 정리
@@ -32,9 +32,9 @@ __○ 진행 절차__
   - 견적 및 일정 협의
   - 서비스 계약 체결
   - 컨설팅 진행 (오프라인)
-  
+
 ### 모든 컨설팅은 오프라인으로 진행됩니다.
 
 ---
 
-__메일 검토 후, 순차적으로 연락드리겠습니다.__
+**메일 검토 후, 순차적으로 연락드리겠습니다.**
