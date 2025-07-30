@@ -3,7 +3,7 @@ layout: default
 title: WORFLOGY Inc.
 ---
 
-# WORFLOGY Consultion Service
+# WORFLOGY Consulting Service
 
 [**워플로지 홈으로 돌아가기**](https://worflogy.com)
 
