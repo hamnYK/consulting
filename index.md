@@ -24,7 +24,7 @@ title: WORFLOGY Inc.
   - [worflogy@gmail.com](mailto:worflogy@gmail.com)으로 의뢰
 
 **○ 진행 절차**
-  - 비밀유지협약 (NDA)
+  - 비밀유지협약 (NDA) [다운로드](https://drive.google.com/file/d/1gr8EU1F-Q0Aq5YfGHBjhgngVgiWCKNYU/view?usp=sharing)
   - 요구사항 인터뷰
   - 주요 아젠다/이슈 정리
 
