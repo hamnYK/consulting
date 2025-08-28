@@ -77,29 +77,28 @@ hr {
 }
 
 /* 테이블 스타일 */
-table {
+.container table {
   width: 100%;
   margin-bottom: 1em;
   border-spacing: 0;
-  /* 가장 중요: 각 셀의 테두리를 한 줄로 깔끔하게 합쳐줍니다. */
   border-collapse: collapse; 
 }
 
 /* 테이블 헤더(th)와 셀(td) 스타일 */
-th, td {
+.container th,
+.container td {
   padding: 0.75em;
-  /* 모든 면에 일관된 테두리를 적용합니다. */
   border: 1px solid var(--border-color); 
 }
 
 /* 헤더(th)는 약간 다른 배경색과 굵은 글씨로 구분합니다. */
-th {
+.container th {
   font-weight: 600;
   background-color: var(--bg-color);
 }
 
 /* 얼룩말 무늬(Zebra Striping)로 가독성을 향상시킵니다. */
-tbody tr:nth-child(odd) {
+.container tbody tr:nth-child(odd) {
   background-color: var(--bg-color);
 }
 
