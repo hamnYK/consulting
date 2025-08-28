@@ -88,7 +88,8 @@ hr {
 .container th,
 .container td {
   padding: 0.75em;
-  border: 1px solid var(--border-color); 
+  /* 모든 면에 일관된 테두리를 적용하고, 최우선 순위를 부여합니다. */
+  border: 1px solid var(--border-color) !important; 
 }
 
 /* 헤더(th)는 약간 다른 배경색과 굵은 글씨로 구분합니다. */
