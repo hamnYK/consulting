@@ -103,11 +103,6 @@ tbody tr:nth-child(odd) {
   background-color: var(--bg-color);
 }
 
-/* 짝수 행은 흰색, 홀수 행은 연한 회색으로 배경색 지정 (tbody 내에서만) */
-tbody tr:nth-child(odd) {
-    background-color: var(--bg-color);
-}
-
 /* 반응형 */
 @media (max-width: 768px) {
     .container {
