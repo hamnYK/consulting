@@ -31,7 +31,7 @@ title: WORFLOGY Inc.
 - 스트레이티지 로드맵 (Strategy Roadmap)<br>
 「앞으로 6개월~1년을 기준으로 한 실행 계획 초안을 정리, 팀이 참고할 수 있는 단계별 방향을 제공」
 
-## 2. 밸류 컨설팅 진행 절차
+## 2. 컨설팅 진행 절차
 
 ### 2-1. 사전 인터뷰
 
@@ -49,7 +49,7 @@ title: WORFLOGY Inc.
 
 ---
 
-## 3. 상품별 밸류 컨설팅 요율 안내 (서울 및 경기도 기준)
+## 3. 상품별 컨설팅 요율 안내 (서울 및 경기도 기준)
 
 ### 트라이얼(Trial)
 
@@ -84,4 +84,4 @@ title: WORFLOGY Inc.
 아래 이메일로 현재 겪고 계신 문제나 궁금한 점을 간단히 보내주세요.<br>
 작은 고민이라도 괜찮습니다. 함께 이야기하며 해결의 실마리를 찾아 드리겠습니다.
 
-**[컨설팅 문의하기: worflogy@gmail.com](mailto:worflogy@gmail.com)**
+**[문의하기: worflogy@gmail.com](mailto:worflogy@gmail.com)**
