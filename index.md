@@ -62,7 +62,7 @@ title: WORFLOGY Inc.
 
 - **의뢰 방법** : [worflogy@gmail.com](mailto:worflogy@gmail.com)
 - **진행 순서**:
-    - **1단계**: 비밀유지협약(NDA) [내려받기](https://drive.google.com/file/d/1IpbFzdH17zTREo131JuWjV53xkd5bCHs/view?usp=sharing) 후 서명
+    - **1단계**: 비밀유지협약(NDA) [내려받기](https://drive.google.com/file/d/1IpbFzdH17zTREo131JuWjV53xkd5bCHs/view?usp=sharing) 후 서명/이메일 회신
     - **2단계**: 요구사항 인터뷰 및 주요 아젠다 정리
     - **3단계**: 견적 및 일정 협의 후 계약 체결
     - **4단계**: 컨설팅 진행 (오프라인 기본)
