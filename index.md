@@ -35,9 +35,9 @@ title: WORFLOGY Inc.
 
 ### 2-1. 사전 인터뷰
 
-- **의뢰 방법**: 이메일 [worflogy@gmail.com](mailto:worflogy@gmail.com)
+- **의뢰 방법**: [worflogy@gmail.com](mailto:worflogy@gmail.com)
 - **진행 절차**:
-    - 비밀유지협약 (NDA) [다운로드](https://drive.google.com/file/d/1IpbFzdH17zTREo131JuWjV53xkd5bCHs/view?usp=sharing)
+    - 비밀유지협약 (NDA) [내려받기](https://drive.google.com/file/d/1IpbFzdH17zTREo131JuWjV53xkd5bCHs/view?usp=sharing)
     - 요구사항 인터뷰
     - 주요 아젠다 및 이슈 정리
 
@@ -75,7 +75,7 @@ title: WORFLOGY Inc.
 
 ### 지금 바로 문제를 해결할 첫걸음을 시작하세요.
 
-아래 이메일로 현재 겪고 계신 문제나 궁금한 점을 간단히 보내주세요.
+아래 이메일로 현재 겪고 계신 문제나 궁금한 점을 간단히 보내주세요.<br>
 작은 고민이라도 괜찮습니다. 함께 이야기하며 해결의 실마리를 찾아 드리겠습니다.
 
 **[컨설팅 문의하기: worflogy@gmail.com](mailto:worflogy@gmail.com)**
