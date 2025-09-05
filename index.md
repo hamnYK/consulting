@@ -16,7 +16,7 @@ title: WORFLOGY Inc.
 - 중요한 의사결정을 앞두고 무엇을 기준으로 판단해야 할지 막막합니다.
 - 새로운 프로젝트, 어디서부터 어떻게 시작해야 실패 확률을 줄일 수 있을까요?
 
-> · 워플로지(WORFLOGY)는 바로 그 **출발점**과 **실행 계획**을 함께 만듭니다.
+> · 워플로지(WORFLOGY)는 바로 그 출발점과 실행 계획을 함께 만듭니다.
 
 ---
 
@@ -35,8 +35,8 @@ title: WORFLOGY Inc.
 
 ### 2-1. 사전 인터뷰
 
-- **의뢰 방법**: [worflogy@gmail.com](mailto:worflogy@gmail.com)
-- **진행 절차**:
+- **의뢰 방법** : [worflogy@gmail.com](mailto:worflogy@gmail.com)
+- **진행 절차** :
     - 비밀유지협약 (NDA) [내려받기](https://drive.google.com/file/d/1IpbFzdH17zTREo131JuWjV53xkd5bCHs/view?usp=sharing)
     - 요구사항 인터뷰
     - 주요 아젠다 및 이슈 정리
