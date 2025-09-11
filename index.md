@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WORFLOGY Inc.
+title: WORFLOGY Inc. Value Consulting Service
 ---
 
 # WORFLOGY Value Consulting Service
